@@ -8,7 +8,7 @@ This repository documents my daily learning journey through the core concepts, t
 - Practice ML for 100 consecutive days and doing forward
 - Strengthen concepts with hands-on coding
 - Build intuition through mini-projects and real datasets
-- Track progress and reflect on learnings
+- Track progress and reflect on learnings..
 
 ---
 
