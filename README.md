@@ -16,7 +16,7 @@ This repository documents my daily learning journey through the core concepts, t
 - Supervised Learning (Regression, Classification)
 - Model Evaluation Metrics
 - Decision Trees and Ensemble Methods
-- Unsupervised Learning (KMeans Clustering, PCA)
+- Unsupervised Learning (KMeans Clustering, PCA, Hirechal Clutering)
 - Feature Engineering
 - Perceptron
 
