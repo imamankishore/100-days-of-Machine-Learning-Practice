@@ -19,7 +19,6 @@ This repository documents my daily learning journey through the core concepts, t
 - Unsupervised Learning (KMeans Clustering, PCA)
 - Feature Engineering
 - Perceptron
-- Upcoming: NLP, Time Series, Reinforcement Learning , Deep Learning and Neural Networks
 
 ---
 
