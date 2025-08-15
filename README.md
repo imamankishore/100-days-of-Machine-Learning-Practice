@@ -12,7 +12,7 @@ This repository documents my daily learning journey through the core concepts, t
 
 ---
 
-## Topics Covered (so far)
+## Topics Covered
 - Supervised Learning (Regression, Classification)
 - Model Evaluation Metrics
 - Decision Trees and Ensemble Methods
