@@ -1,4 +1,4 @@
-# 100 Days of Machine Learning Practice
+# 100 Days of Machine Learning Practice!!
 
 Welcome to my 100 Days of Machine Learning Practice challenge.  
 This repository documents my daily learning journey through the core concepts, tools, and real-world applications of Machine Learning.
