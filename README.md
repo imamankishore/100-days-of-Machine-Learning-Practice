@@ -28,6 +28,4 @@ Each day's folder includes:
 - Code notebooks (in Jupyter or Python)
 - Visuals and outputs
 
----
 
-## Repository Structure
